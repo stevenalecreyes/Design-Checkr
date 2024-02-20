@@ -1,0 +1,73 @@
+.container {
+  width: 99vw;
+  height: 97.5vh;
+  padding: 50px 20px;
+  box-sizing: border-box;
+  background: linear-gradient(106.59deg, #18073A 70.64%, rgba(25, 7, 59, 0.914) 74.34%, rgba(29, 10, 66, 0) 105.63%);
+  border-radius: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  position: absolute;
+  width: 550px;
+  height: 81px;
+  left: 160px;
+  top: 299px;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 55px;
+  display: flex;
+  align-items: center;
+  color: #FFFDFD;
+}
+
+p {
+  position: absolute;
+  width: 550px;
+  height: 83px;
+  left: 160px;
+  top: 437px;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #FFFDFD;
+}
+
+button {
+  position: absolute;
+  width: 265px;
+  height: 76px;
+  left: 303px;
+  top: 577px;
+  background: #8080D7;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+img {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  left: calc(50% + 130px); /* Adjust as needed */
+  top: 100px;
+}
+
