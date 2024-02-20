@@ -27,7 +27,7 @@ To get a local copy up and running, follow these simple steps:
 
 2. Navigate to the project directory
     ```bash
-    cd Design-Checkr
+    cd Design-Checkr/design-checkr-app
     ```
 
 3. Install dependencies
