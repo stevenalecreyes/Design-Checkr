@@ -5,7 +5,7 @@ Design-Checkr is a login page that I am currently exploring.
 ## Screenshots
 
 ![Screenshot 1](Screenshots/LandingPage.jpg)
-![Screenshot 2](Screenshots/Login.jpg)
+![Screenshot 2](Screenshots/LoginPage.jpg)
 
 ## Prerequisites
 
